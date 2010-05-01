@@ -1,0 +1,4 @@
+Bundle-Activator: bndtools.eclipse.applaunch.Activator
+Private-Package: bndtools.eclipse.applaunch
+Bundle-License: http://www.opensource.org/licenses/eclipse-1.0.php
+Include-Resource: OSGI-OPT/license.html=epl-v10.html
